@@ -14,7 +14,7 @@
                 compatible = "zmk,behavior-tap-dance";
                 #binding-cells = <0>;
                 tapping-term-ms = <200>;
-                bindings = <&to 3>, <&to 4>;
+                bindings = <&to 2>, <&to 3>;
             };
             bsdel: backspace_delete {
                 compatible = "zmk,behavior-mod-morph";
