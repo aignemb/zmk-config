@@ -85,7 +85,7 @@
                 };
                 symbol_layer { //1
                         bindings = < 
-   &none    &kp LT      &kp LBKT    &kp LBRC    &kp LPAR    &kp BSLH  /**/ &kp FSLH  &kp RPAR    &kp LBRC    &kp LBKT    &kp GT      &none
+   &none    &kp LT      &kp LBKT    &kp LBRC    &kp LPAR    &kp BSLH  /**/ &kp FSLH  &kp RPAR    &kp RBRC    &kp RBKT    &kp GT      &none
    &kp HASH &hml LGUI N1 &hml LALT N2 &hml LSFT N3 &hml LCTL N4 &kp N5    /**/ &kp N6    &hmr RCTL N7 &hmr RSFT N8 &hmr RALT N9 &hmr RGUI N0 &kp AMPS
    &none    &kp EXCL    &kp TILDE   &kp PIPE    &kp STAR    &kp PRCNT /**/ &kp EQUAL &kp PLUS    &kp MINUS   &kp DOT     &kp CARET   &kp GRAVE
                                     &bsdel      &kp ESC     &kp RET   /**/ &kp SPACE &to 0       &td0
